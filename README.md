@@ -1,4 +1,4 @@
-Hi, there! I am @Minterex, or otherwise known as Mintz():
+Hi, there! I am @Minterex, or otherwise known as Mintz online or Travis():
 
   │ 👨‍💻 I have always admired coding and programming since a young age due to the environment I have grew up in. I plan to pursue it as a possible career path in the future.
 
