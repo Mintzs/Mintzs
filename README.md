@@ -6,7 +6,7 @@ Hi, there! I am @Minterex, or otherwise known as Mintz online or Travis():
 
   │ 🎮 One day, I hope to achieve my dream of becoming a game or software developer.
 
-![wnhJXkg9FM3P](https://user-images.githubusercontent.com/66548386/209445556-e737e32c-040f-4b7e-af5a-ffbac97db78b.gif)
+![08ce63876155dbc20bdc7d2e36316a66](https://user-images.githubusercontent.com/66548386/209697599-8db097bf-a674-4a44-8b30-981959499421.gif)
 
 <!---
 Minterex/Minterex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
