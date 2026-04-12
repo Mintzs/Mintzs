@@ -38,9 +38,11 @@
 
 ---
 
-## 📂 My Projects
+## 📂 Featured Projects
 
-- [**Qwen Fine-tune**](https://github.com/Mintzs/oogaboogalm) — QLoRA fine-tuning for token optimization and style transfer
+- [**OogaBoogaLM**](https://github.com/Mintzs/oogaboogalm) — QLoRA fine-tuning (Qwen-2.5 Base Model) for token optimization and 'caveman' style transfer
+- [**VectorIMG**](https://github.com/Mintzs/VectorIMG) - Image editing program using vectorized NumPy algorithms
+- [**VectorIMG**](https://github.com/Mintzs/valuable-n8n-ai) - A collection of my n8n workflows, agents, and automations with real-life business and valuable use cases
 
 ---
 
