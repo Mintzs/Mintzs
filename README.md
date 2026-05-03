@@ -16,7 +16,7 @@
 
 - Studying **Data Science & AI** in the Netherlands
 - Passionate about **LLM fine-tuning**, **AI agents**, and **NLP**
-- Currently working on: LoRA/QLoRA on Qwen & Llama for style transfer and token optimization (OogaBoogaLM)
+- Currently working on: experimentation with embedding models for agentic systems
 
 ---
 
@@ -40,7 +40,9 @@
 
 ## 📂 Featured Projects
 
-- [**OogaBoogaLM**](https://github.com/Mintzs/oogaboogalm) — QLoRA fine-tuning (Qwen-2.5 Base Model) for token optimization and 'caveman' style transfer
+- [**OogaBoogaLM**](https://github.com/Mintzs/oogaboogalm) — QLoRA fine-tuning (Qwen-2.5 Base Model) for token optimization and 'caveman' style transfer, saving above 80% of token output
+- [**Goal Drift**](https://github.com/Mintzs/goal-drift) - Open source Python library that integrates with any tool-calling AI agent to detect prompt injection through semantic goal drifts before action takes place
+- [**Valid8**](https://github.com/Mintzs/valid8-ai) - A market research / product validation AI agent that can tell you if your product idea is in demand through sentiment analysis, strategic large-scale web scraping, and competitor research
 - [**VectorIMG**](https://github.com/Mintzs/VectorIMG) - Image editing program using vectorized NumPy algorithms
 - [**Valuable n8n AI**](https://github.com/Mintzs/valuable-n8n-ai) - A collection of my n8n workflows, agents, and automations with real-life business and valuable use cases
 
