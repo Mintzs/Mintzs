@@ -3,7 +3,7 @@
 # Hey, I'm Travis 👋
 
 **Aspiring AI Engineer**  
-18-year-old passionate about building intelligent systems — from fine-tuned LLMs to autonomous AI agents.
+18-year-old passionate about working with data and building intelligent systems — from fine-tuned LLMs to autonomous AI agents.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/travisjchauvin)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]([https://huggingface.co](https://huggingface.co/Mintzs))
